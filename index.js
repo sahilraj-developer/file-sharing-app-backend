@@ -13,4 +13,4 @@ app.use('/',router);
 
 DBConecction();
 
-app.listen(port,()=> console.log(`server is running in the poty ${port}`))
+app.listen(port,()=> console.log(`server is running in the port ${port}`))
